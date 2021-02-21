@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console-app-test",
+  "version": "0.0.0",
+  "description": "NodejsConsoleAppTest",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "type": "module",
+  "dependencies": {
+    "soap": "^0.36.0"
+  }
+}
